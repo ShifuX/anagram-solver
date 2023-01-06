@@ -1,0 +1,16 @@
+.bttn {
+    border-radius: 20px;
+    padding: 0.3rem;
+    font-size: 1rem;
+    text-align: center;
+    min-width: 6rem;
+    min-height: 2rem;
+    border-style: none;
+    background-color: #fcb037;
+    color: #ffffff;
+    transition: 0.8s;
+}
+
+.bttn:hover {
+    background-color: #ff9d00;
+}

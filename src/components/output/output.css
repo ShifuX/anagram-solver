@@ -1,0 +1,17 @@
+.container-output {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    min-height: 63vh;
+    background-color: #14213d;
+    color: #fff;
+}
+
+.res-container {
+    margin-top: -20rem;
+}
+
+.res {
+    font-size: 4rem;
+}

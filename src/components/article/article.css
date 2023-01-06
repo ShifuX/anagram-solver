@@ -1,0 +1,14 @@
+.article-container {
+    display: flex;
+    justify-content: center;
+    margin-top: -23rem;
+    color: #fff;
+}
+
+.article-title {
+    font-size: 2rem;
+}
+
+.list-container {
+    font-size: 1.3rem;
+}
